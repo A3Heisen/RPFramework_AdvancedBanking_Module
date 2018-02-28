@@ -1,6 +1,9 @@
 		class AdvancedATM
 		{
 			file = "Functions\modules\AdvancedATM";
-			class initAdvancedATM {};
-			class initAdvancedATMMenu {};
+			class initAATM {};
+			class initAATMMenu {};
+			class openNewAccount {};
+			class openNewAccountDialog {};
+			class verifyNewAccount {};
 		};
