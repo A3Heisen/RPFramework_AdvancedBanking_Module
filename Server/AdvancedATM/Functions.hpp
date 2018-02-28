@@ -5,4 +5,5 @@
 			class retrieveBankingData {};
 			class insertBankingData {};
 			class generateSortNumber {};
+			class spawnBanks {};
 		};
